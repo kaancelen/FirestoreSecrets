@@ -2,6 +2,7 @@
     <string name="app_name">FirestoreSecrets</string>
 
     <string name="firestore_secret_init_text">Firestore secure loading</string>
-    <string name="firestore_secret_success_text">Firestore Secret fetched: %s</string>
-    <string name="firestore_secret_error_text">Firestore secure fetch failede</string>
+    <string name="firestore_secret_success_text">Firestore Secret fetched: [%s] [%s]</string>
+    <string name="firestore_secret_error_text">Firestore secure fetch failed</string>
+    <string name="firestore_secret_locally_stored">Firestore already stored: [%s] [%s]</string>
 </resources>
