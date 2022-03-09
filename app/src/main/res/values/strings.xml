@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirestoreSecrets</string>
+
+    <string name="firestore_secret_init_text">Firestore secure loading</string>
+    <string name="firestore_secret_success_text">Firestore Secret fetched: %s</string>
+    <string name="firestore_secret_error_text">Firestore secure fetch failede</string>
+</resources>
